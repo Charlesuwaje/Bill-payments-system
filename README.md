@@ -72,7 +72,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repo/bill-payment-api.git
+    git clone https://github.com/Charlesuwaje/Bill-payments-system.git
     cd bill-payment-api
     ```
 
@@ -106,5 +106,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
      
 ## Postman Collection
 
-Use this link to access the [Postman Collection](https://www.postman.com/your-postman-link).
+Use this link to access the [Postman Collection](https://documenter.getpostman.com/view/23719289/2sAXxQdrpz).
 
