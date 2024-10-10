@@ -8,9 +8,7 @@ enum TransactionStatus: string
     case SUCCESSFUL  = 'Successful ';
     case FAILED = 'failed';
 
-    /**
-     * Return the available statuses as an array
-     */
+
     public static function getStatuses(): array
     {
         return [
